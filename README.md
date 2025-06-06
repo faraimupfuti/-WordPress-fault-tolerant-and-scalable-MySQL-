@@ -46,6 +46,8 @@ See the documentation at [faraimupfuti.vercel.app](https://faraimupfuti.vercel.a
 
 These templates are adapted for [faraimupfuti.vercel.app](https://faraimupfuti.vercel.app).
 
+CLICK ON THE LINK TO DEPLOY TEMPLATE     https://console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-eu-west-1.amazonaws.com/widdix-aws-cf-templates-releases-eu-west-1/stable/vpc/vpc-2azs.yaml&stackName=vpc
+
 ## License
 
 See [LICENSE](LICENSE).
