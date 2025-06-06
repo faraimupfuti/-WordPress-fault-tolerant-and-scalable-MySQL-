@@ -1,0 +1,8 @@
+# CloudFormation template for highly available WordPress (example stub)
+# For the full template, see https://faraimupfuti.vercel.app
+
+AWSTemplateFormatVersion: '2010-09-09'
+Description: WordPress - Fault Tolerant and Scalable (MySQL)
+Resources:
+  # Add resources for VPC, EC2, RDS, ELB, S3, etc.
+  # See the complete template at faraimupfuti.vercel.app

@@ -1,0 +1,7 @@
+# Example stub for EC2 resources
+# For the full template, see https://faraimupfuti.vercel.app
+
+AWSTemplateFormatVersion: '2010-09-09'
+Description: EC2 Auto Scaling for WordPress
+Resources:
+  # LaunchConfiguration, AutoScalingGroup, etc.

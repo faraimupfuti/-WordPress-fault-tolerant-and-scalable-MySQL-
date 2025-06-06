@@ -1,0 +1,7 @@
+# Example stub for VPC resources
+# For the full template, see https://templates.cloudonaut.io/en/stable/vpc/
+
+AWSTemplateFormatVersion: '2010-09-09'
+Description: VPC for WordPress deployment
+Resources:
+  # VPC, Subnets, Routing, etc.

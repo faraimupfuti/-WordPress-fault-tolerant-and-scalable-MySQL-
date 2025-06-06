@@ -1,0 +1,7 @@
+# Example stub for S3 resources
+# For the full template, see https://faraimupfuti.vercel.app
+
+AWSTemplateFormatVersion: '2010-09-09'
+Description: S3 bucket for WordPress media files
+Resources:
+  # S3 Bucket resource
